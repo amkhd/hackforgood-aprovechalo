@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_activity_main">¡Productos rebajados!</string>
+    <string name="app_name">¡Aprovéchalo!</string>
+    <string name="offers_title">Ofertas</string>
+    <string name="offer_datails_title">Detalle</string>
+    <string name="new_offer_published">¡Se acaba de publicar una nueva oferta!</string>
+    <string name="current_price_desc">"ahora: "</string>
+    <string name="old_price_desc">"antes: "</string>
+</resources>
